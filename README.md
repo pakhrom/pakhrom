@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Roman (nicknames: pakhrom or pkrm).
+- 👀 I’m interested in Game Development.
+- 🌱 I’m currently learning C++, C#, Unity, Machine Learning. Plus I'm currently practicing Git.
+- 💞️ I’m looking to collaborate on ... (currently nothing)
+- 📫 How to reach me: WIP.
